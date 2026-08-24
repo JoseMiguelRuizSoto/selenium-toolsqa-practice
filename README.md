@@ -18,7 +18,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 ### Elements
 - [x] Text Box
 - [X] Check Box
-- [ ] Radio Button
+- [X] Radio Button
 - [ ] Web Tables
 - [ ] Buttons
 - [ ] Links
