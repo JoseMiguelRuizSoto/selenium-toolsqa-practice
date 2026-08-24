@@ -19,7 +19,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [x] Text Box
 - [X] Check Box
 - [X] Radio Button
-- [ ] Web Tables
+- [X] Web Tables
 - [ ] Buttons
 - [ ] Links
 - [ ] Upload and Download
