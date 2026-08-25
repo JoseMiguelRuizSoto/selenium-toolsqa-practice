@@ -22,7 +22,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [X] Web Tables
 - [X] Buttons
 - [X] Links
-- [ ] Broken Links - Images
+- [X] Broken Links - Images
 - [ ] Upload and Download
 - [ ] Dynamic Properties
 
