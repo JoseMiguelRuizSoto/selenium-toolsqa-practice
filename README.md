@@ -21,7 +21,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [X] Radio Button
 - [X] Web Tables
 - [X] Buttons
-- [ ] Links
+- [X] Links
 - [ ] Upload and Download
 
 ### Forms
