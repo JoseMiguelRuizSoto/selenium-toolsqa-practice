@@ -30,7 +30,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [X] Practice Form
 
 ### Alerts, Frame & Windows
-- [ ] Browser Windows
+- [X] Browser Windows
 - [ ] Alerts
 - [ ] Frames
 - [ ] Nested Frames

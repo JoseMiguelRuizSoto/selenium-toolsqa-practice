@@ -62,13 +62,12 @@ driver.find_element(By.XPATH, "//div[text()='NCR']").click()
 city_dropdown = driver.find_element(By.ID, "city")
 driver.execute_script("arguments[0].scrollIntoView(true);", city_dropdown)
 time.sleep(1)
-city_dropdown.click()  # click normal, igual que hicimos con state
+city_dropdown.click()  
 time.sleep(1)
 driver.find_element(By.XPATH, "//div[text()='Delhi']").click()
 
 # --- Enviar formulario ---
 driver.find_element(By.ID, "submit").click()
-driver.save_screenshot("debug_submit.png")
 
 # --- Verificar que aparecio el modal de confirmacion ---
 modal_titulo = wait.until(EC.visibility_of_element_located((By.ID, "example-modal-sizes-title-lg"))).text
