@@ -23,7 +23,7 @@ print("Titulo de la nueva pestaña:", driver.title)
 driver.close()
 driver.switch_to.window(driver.window_handles[0])
 
-# 2. Click en un link tipo API (ej: "Created")
+# 2. Click en un link tipo API 
 created_link = wait.until(EC.element_to_be_clickable((By.ID, "created")))
 created_link.click()
 wait.until(EC.text_to_be_present_in_element((By.ID, "linkResponse"), "201"))
