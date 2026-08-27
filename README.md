@@ -30,15 +30,36 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [X] Practice Form
 
 ### Alerts, Frame & Windows
+- [ ] Windows
 - [ ] Alerts
 - [ ] Frames
-- [ ] Windows
+- [ ] Nested Frames
+- [ ] Modal Dialogs
+
 
 ### Widgets
-- [ ] (pendiente)
+- [ ] Accordion
+- [ ] Auto Complete
+- [ ] Date Picker
+- [ ] Slider
+- [ ] Progress Bar
+- [ ] Tabs
+- [ ] Tool Tips
+- [ ] Menu
+- [ ] Select Menu
 
 ### Interactions
-- [ ] (pendiente)
+- [ ] Sortable
+- [ ] Selectable
+- [ ] Resizable
+- [ ] Droppable
+- [ ] Dragabble
+
+### Book Store Application
+- [ ] Login
+- [ ] Book Store
+- [ ] Profile
+- [ ] Book Store API
 
 ## Cómo ejecutar los tests
 ```bash
