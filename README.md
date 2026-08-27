@@ -24,10 +24,10 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [X] Links
 - [X] Broken Links - Images
 - [X] Upload and Download
-- [ ] Dynamic Properties
+- [X] Dynamic Properties
 
 ### Forms
-- [ ] Practice Form
+- [X] Practice Form
 
 ### Alerts, Frame & Windows
 - [ ] Alerts
