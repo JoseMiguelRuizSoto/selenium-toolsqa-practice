@@ -34,7 +34,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 - [X] Alerts
 - [X] Frames
 - [X] Nested Frames
-- [ ] Modal Dialogs
+- [X] Modal Dialogs
 
 
 ### Widgets
