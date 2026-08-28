@@ -31,7 +31,7 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 
 ### Alerts, Frame & Windows
 - [X] Browser Windows
-- [ ] Alerts
+- [X] Alerts
 - [ ] Frames
 - [ ] Nested Frames
 - [ ] Modal Dialogs
