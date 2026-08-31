@@ -39,8 +39,8 @@ Selenium WebDriver, aplicando los ejercicios sobre demoqa.com.
 
 ### Widgets
 - [X] Accordion
-- [ ] Auto Complete
-- [ ] Date Picker
+- [X] Auto Complete
+- [X] Date Picker
 - [ ] Slider
 - [ ] Progress Bar
 - [ ] Tabs
